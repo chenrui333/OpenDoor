@@ -1,0 +1,28 @@
+README.md
+  h_9df9c32c3f321d 17,27-31
+CHANGELOG.md
+  h_9df9c32c3f321d 4-7
+.github/workflows/ci-windows-py315.yml
+  h_9df9c32c3f321d 1-19
+" AGENTS.md"
+  h_9df9c32c3f321d 31
+.github/workflows/ci-macos-py315.yml
+  h_9df9c32c3f321d 1-19
+.github/workflows/ci-linux-py315.yml
+  h_9df9c32c3f321d 1-19
+CONTRIBUTING.md
+  h_9df9c32c3f321d 98
+tests/test_lib_package.py
+  h_9df9c32c3f321d 43-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5320b2fd0186c773fc93b618e4b6aa08383b1154",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
